@@ -8,7 +8,6 @@
 ### TypeScript 강좌
  - [한눈에 보는 타입스크립트(updated)](https://heropy.blog/2020/01/27/typescript/)
  - [Velog TypeScript](https://velog.io/@velopert/typescript-basics)
-
  - [poiemaweb TypeScript 강좌](https://poiemaweb.com/typescript-introduction) `기타 ES6 등 좋은 내용 다수 포함!`
  - [ahnheejong TypeScript 강좌](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
