@@ -9,15 +9,15 @@
      - Type strict language
    - 자바스크립트와 문법이 거의 비슷함
  - 설치
- ```bash
- $ npm install -g typescript
- 
- # 리엑트 플젝에 설치
- $ npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+   ```bash
+   $ npm install -g typescript
 
- # 새로운 리엑트 플젝 생성 시
- $ npx create-react-app my-app --template typescript
- ```
+   # 리엑트 플젝에 설치
+   $ npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+   # 새로운 리엑트 플젝 생성 시
+   $ npx create-react-app my-app --template typescript
+   ```
 
 
 ## 2020년 기록
