@@ -1,5 +1,27 @@
 # TypeScript
 
+## 참고 강좌
+ - https://codingapple.com/unit/how-to-install-typescript-in-local-vue-react/?id=11721
+   - 자바스크립트 업그레이드 버전
+   - 자바스크립트 문제
+     - Dynamic typing (5-'3')
+     - -> 유연성이 높은 것이 문제가 됨
+     - Type strict language
+   - 자바스크립트와 문법이 거의 비슷함
+ - 설치
+ ```bash
+ $ npm install -g typescript
+ 
+ # 리엑트 플젝에 설치
+ $ npm install --save typescript @types/node @types/react @types/react-dom @types/jest
+
+ # 새로운 리엑트 플젝 생성 시
+ $ npx create-react-app my-app --template typescript
+ ```
+
+
+## 2020년 기록
+
 ### TypeScript Handbooks
  - [TypeScript-Handbook 원문](https://www.typescriptlang.org/docs/handbook/basic-types.html)
  - [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)

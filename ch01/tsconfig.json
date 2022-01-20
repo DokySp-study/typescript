@@ -1,0 +1,9 @@
+{
+    // 자바스크립트로 변환하는 과정 -> 컴파일
+    // 컴파일하는 것에 대한 설정 부분
+    "compilerOptions": {
+        // es5, es6, esnext
+        "target": "esnext",  
+        "module": "commonjs",
+    }
+}
